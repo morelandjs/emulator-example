@@ -1,7 +1,6 @@
 # Emulator example
 
-Minimial example which demonstrates training a Gaussian process to emulate a
-multivalued function.
+Minimal working example of a multi-valued Gaussian process emulator.
 
 ## What's here?
 
